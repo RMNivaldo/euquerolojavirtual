@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euquero.lojaVirtual.Dominio", "Euquero.lojaVirtual.Dominio\Euquero.lojaVirtual.Dominio.csproj", "{3F544F78-55B8-4DD2-9CEC-D435F34623FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euquero.LojaVirtual.Web", "Euquero.LojaVirtual.Web\Euquero.LojaVirtual.Web.csproj", "{5FC3D06A-FC74-43F3-A940-856BD3C98BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euquero.LojaVirtual.UnitTest", "Euquero.LojaVirtual.UnitTest\Euquero.LojaVirtual.UnitTest.csproj", "{018441F9-D0C8-43E6-92C2-C5576045C469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F544F78-55B8-4DD2-9CEC-D435F34623FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F544F78-55B8-4DD2-9CEC-D435F34623FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F544F78-55B8-4DD2-9CEC-D435F34623FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F544F78-55B8-4DD2-9CEC-D435F34623FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC3D06A-FC74-43F3-A940-856BD3C98BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC3D06A-FC74-43F3-A940-856BD3C98BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC3D06A-FC74-43F3-A940-856BD3C98BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC3D06A-FC74-43F3-A940-856BD3C98BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018441F9-D0C8-43E6-92C2-C5576045C469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018441F9-D0C8-43E6-92C2-C5576045C469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018441F9-D0C8-43E6-92C2-C5576045C469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018441F9-D0C8-43E6-92C2-C5576045C469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
